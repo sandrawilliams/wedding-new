@@ -1,0 +1,14 @@
+have to have loader after babel 			babel-loader
+.\node_modules\.bin\webpack --watch			watches the bundle file for changes, ctrl S and refresh needed
+Hot loader instructions					http://gaearon.github.io/react-hot-loader/getstarted/
+Create a new empty file					copy NUL filename.txt
+tagged template literal					call functions using back ticks as opposed to using parenthesis myFunc()
+React Router V4 nneds rr dom and browser router		https://stackoverflow.com/questions/43008036/the-prop-history-is-marked-as-required-in-router-but-its-value-is-undefine
+React Router V4 					https://stackoverflow.com/questions/42095600/nested-routes-in-v4
+
+
+
+Look up webpack dev server
+- File protocol (C://), no HTTP request
+- Http protocol (localhost)
+ADD THEMES
