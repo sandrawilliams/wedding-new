@@ -12,3 +12,6 @@ Look up webpack dev server
 - File protocol (C://), no HTTP request
 - Http protocol (localhost)
 ADD THEMES
+
+<IndexRoute component={BridalParty}/>,
+<Route path="where" component={Where} />

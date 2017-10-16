@@ -11,5 +11,5 @@ new WebpackDevServer(webpack(config), {
 		console.log(err);
 	}
 
-	console.log('Listening at localhost:2020');
+	console.log('Listening at localhost:1010');
 });

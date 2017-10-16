@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import styled from 'styled-components';
-import BridalParty from './BridalParty.jsx';
 import App from './App.jsx';
 
 /*class App extends React.Component {
